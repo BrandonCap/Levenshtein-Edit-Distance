@@ -8,4 +8,4 @@ python3 EditDistance.py
 ```
 
 Sample Output
-[Output](https://github.com/BrandonCap/Levenshtein-Edit-Distance/edit/main/assets/program-output.png)
+![Output](https://github.com/BrandonCap/Levenshtein-Edit-Distance/edit/main/assets/program-output.png)
